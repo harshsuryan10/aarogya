@@ -1,5 +1,5 @@
 import FloatingActions from './FloatingActions';
-import Navbar from '../components/navbar'
+import Navbar from '../components/Navbar'
 import VaccineCarousel from './../components/VaccineCarousel';
 
 const CorporateHealth = () => {
